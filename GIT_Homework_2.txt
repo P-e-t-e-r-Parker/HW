@@ -1,11 +1,11 @@
 1. На локальном репозитории сделать ветки для:
-	         === Зоходим в папку main и там создаем новые ветки > git checkout main
-- Postman         === git branch Postman,  
-- Jmeter            === git branch Jmeter,         
-- CheckLists     === git branch CheckLists,    
-- Bag Reports   === git branch Bag Reports,  
-- SQL                === git branch SQL,            
-- Charles           === git branch Charles,         
+	       === Зоходим в папку main и там создаем новые ветки > git checkout main
+- Postman      === git branch Postman,  
+- Jmeter       === git branch Jmeter,         
+- CheckLists   === git branch CheckLists,    
+- Bag Reports  === git branch Bag Reports,  
+- SQL          === git branch SQL,            
+- Charles      === git branch Charles,         
 - Mobile testing === git branch Mobile testing,  
 
 2. Запушить все ветки на внешний репозиторий  
